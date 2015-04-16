@@ -2,4 +2,5 @@
 
 ## Contributors
 Wes Hicks
+Brendan Tomazine
 
